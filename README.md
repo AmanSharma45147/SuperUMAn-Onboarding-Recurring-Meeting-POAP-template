@@ -7,3 +7,4 @@
 # SuperUMAn-Onboarding-Recurring-Meeting-POAP
 
 
+![SuperUMAn Onboarding Recurring Meeting POAP](https://user-images.githubusercontent.com/86709559/142405347-fb9f7b94-e6a5-4d5b-898e-3b143fffe50f.png)
